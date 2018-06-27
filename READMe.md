@@ -28,11 +28,11 @@ HOW TO RUN
 
 	yarn install
 
-4. Then Execute the following command 
+4. Then to run the local server execute the following command 
 
 	yarn run local-webserver
 
-5. And to run all feature, execute thr below command
+5. And to run all feature, execute the below command
 
 	yarn run wdio
 
