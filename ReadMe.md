@@ -9,7 +9,9 @@ ENVIRONMENT:
 ---------------------
 
 "wdio-selenium-standalone-service": "0.0.10"
+
 "chromedriver": "^2.40.0"
+
 "wdio-cucumber-framework": "~2.1.0"
        
 "webdriverio": "4.13.0"
