@@ -24,7 +24,7 @@ HOW TO RUN
 
 2. Use command prompt and navigate to the root folder of the project [WDIO-Cucumber]
 
-3. Execute the following command 
+3. Execute the following command [This may take some time]
 
 	yarn install
 
@@ -32,7 +32,7 @@ HOW TO RUN
 
 	yarn run local-webserver
 
-5. And to run all feature, execute the below command
+5. And to run multiple feature files together, execute the below command [Loading issues may occur if the internet speed is low  ]
 
 	yarn run wdio
 
